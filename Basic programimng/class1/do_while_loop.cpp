@@ -18,3 +18,6 @@ int main()
  
     return 0;
 }
+
+/* OUTPUT: Hello World 
+Do while loop will run atleast once even if the condition is false */
